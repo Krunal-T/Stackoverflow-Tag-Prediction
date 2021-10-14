@@ -1,7 +1,7 @@
 # Stackoverflow Tag Prediction Facebook Recruiting III - Keyword Extraction
 This repository consist of code implementation for stackoverflow tag prediction held by Facebook for recruitments. Problem statement consist of mutli-label classification problem with business constraint for low latency model.
 <br>
-All the detail for the following are written in - https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction
+For more information, refer this link on kaggle - https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction
 <br>
 
 # Library
