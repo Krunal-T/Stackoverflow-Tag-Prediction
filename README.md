@@ -28,7 +28,7 @@ link - https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data
 <br>
 
 # Author
-Chirag Malaviya<br>
+Krunal Thumar<br>
 
 # Reference
 Applied AI Case Study
